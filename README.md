@@ -73,7 +73,7 @@ Camion 6	ContenedorRefrigerado	150
 
 
 Menu loop:
-El menú mostrara (mirar anexo para los detalles) :
+El menú mostrará:
 
 ************ BARCO ********************
 1. Mostrar Contenedores
